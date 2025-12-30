@@ -1,2 +1,2 @@
-# palindrome-py
-DevOps automated project
+# devops-python
+Python based application
